@@ -1,5 +1,18 @@
-template-repository (1.0-1) unstable; urgency=medium
+sphinx-basic-ng (1.0.0~beta1-3) unstable; urgency=medium
 
-  * Initial release
+  * modified the watch file, to mangle upstream's version .beta => ~beta
+  * bumped Standards-Version: 4.6.2
 
- -- Tsic404 <liuheng@deepin.org>  Sat, 28 Jan 2023 13:46:49 +0800
+ -- Georges Khaznadar <georgesk@debian.org>  Tue, 20 Dec 2022 13:52:32 +0100
+
+sphinx-basic-ng (1.0.0~beta1-2) unstable; urgency=medium
+
+  * upload the source package to unstable
+
+ -- Georges Khaznadar <georgesk@debian.org>  Sat, 12 Nov 2022 09:33:32 +0100
+
+sphinx-basic-ng (1.0.0~beta1-1) experimental; urgency=medium
+
+  * Initial release. (Closes: #1023447)
+
+ -- Georges Khaznadar <georgesk@debian.org>  Fri, 04 Nov 2022 10:24:32 +0100
